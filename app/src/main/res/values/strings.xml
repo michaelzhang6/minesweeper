@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="BombExplode">Bomb Exploded! GAME OVER</string>
+    <string name="FlaggedEmpty">Flagged an Empty. GG</string>
+    <string name="Win">All Bombs Flagged, YOU WIN!!</string>
+    <string name="Title">Minesweeper</string>
+    <string name="flag">Flag</string>
+    <string name="Try">Try</string>
+    <string name="reset">Reset</string>
+</resources>
